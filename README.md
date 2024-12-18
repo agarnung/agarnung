@@ -1,4 +1,6 @@
-## This is my README, which will be eventually updated in some sense or another
+## This is my README, 
+
+and it will be eventually updated in some sense or another
 
 A [.md (Markdown)](https://en.wikipedia.org/wiki/Markdown) file is able to create formatted text ⌨️ in a very simply and visual way. E.g.: _italic_, **bold**, `monospace`. 
 
