@@ -17,3 +17,5 @@ Be careful, this .md will be deleted if any of the following happens:
   * The repository name no longer matches your username due to a change in either or both names.
 2. Direct actions
   - The README file is removed or made empty
+
+Some basic concepts: https://www.markdownguide.org/basic-syntax/
