@@ -21,8 +21,6 @@ Be careful, this .md will be deleted if any of the following happens:
 Some basic concepts: https://www.markdownguide.org/basic-syntax/
 Some cool Markdown stuff: https://www.sitepoint.com/github-profile-readme/
 
----
-
 `createFooTumbleweed();`
 
 <div id="header" align="center">
@@ -43,8 +41,6 @@ Some cool Markdown stuff: https://www.sitepoint.com/github-profile-readme/
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
 
 <h2>Other sites:</h2>
 <div id="badges">
