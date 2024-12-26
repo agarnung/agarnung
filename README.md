@@ -26,6 +26,9 @@ Some basic concepts: https://www.markdownguide.org/basic-syntax/
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hpMWk1ZzE0M2hpaWZ0eWh0aXhwN3BocDhnNGRnanE1ZHQ5d21keiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5x89XRx3sBZFC/giphy.gif" width="300"/>
 </div>
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=agarnung&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 
