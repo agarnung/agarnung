@@ -42,6 +42,8 @@ Be careful, this .md will be deleted if any of the following happens:
   </a>
 </div>
 
+> :warning: __how do I remove that symbol between badges?...__
+ 
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agarnung&theme=dark&background=000000)](https://git.io/streak-stats)
