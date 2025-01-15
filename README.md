@@ -42,7 +42,7 @@ Be careful, this .md will be deleted if any of the following happens:
   </a>
 </div>
 
-> :warning: __how do I remove that symbol between badges?...__
+> :warning: _how do I remove that symbol between badges?..._
  
 ---
 
