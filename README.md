@@ -2,13 +2,6 @@
 
 and it will be eventually updated in some sense or another.
 
-A [.md (Markdown)](https://en.wikipedia.org/wiki/Markdown) file is able to create formatted text ⌨️ in a very simply and visual way. E.g.: _italic_, **bold**, `monospace`. 
-
-<h1>Heading</h1>
-<h2>Sub-heading</h2>
-
-This is a horizontal line:
-
 ---
 
 Be careful, this .md will be deleted if any of the following happens:
@@ -16,10 +9,7 @@ Be careful, this .md will be deleted if any of the following happens:
   * The repository is made private.
   * The repository name no longer matches your username due to a change in either or both names.
 2. Direct actions
-  - The README file is removed or made empty
-
-Some basic concepts: https://www.markdownguide.org/basic-syntax/
-Some cool Markdown stuff: https://www.sitepoint.com/github-profile-readme/
+  - The README file is made empty
 
 `createFooTumbleweed();`
 
@@ -46,6 +36,9 @@ Some cool Markdown stuff: https://www.sitepoint.com/github-profile-readme/
 <div id="badges">
   <a href="https://www.linkedin.com/in/alejandro-garnung-men%C3%A9ndez-640085342/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://agarnung.github.io">
+    <img src="https://img.shields.io/badge/-My%20Personal%20Website-4CAF50?logo=personal%20website&logoColor=white&style=for-the-badge" alt="Personal Website Badge">
   </a>
 </div>
 
