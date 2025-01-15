@@ -38,7 +38,7 @@ Be careful, this .md will be deleted if any of the following happens:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://agarnung.github.io">
-    <img src="https://img.shields.io/badge/-My%20Personal%20Website-4CAF50?logo=personal%20website&logoColor=white&style=for-the-badge" alt="Personal Website Badge">
+    <img src="https://img.shields.io/badge/-Personal%20Website-4CAF50?logo=personal%20website&logoColor=white&style=for-the-badge" alt="Personal Website Badge"/>
   </a>
 </div>
 
