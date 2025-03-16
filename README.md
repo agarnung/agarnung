@@ -2,8 +2,6 @@
 
 and it will be eventually updated in some sense or another.
 
----
-
 `createFooTumbleweed();`
 
 <div id="header" align="center">
@@ -36,8 +34,6 @@ and it will be eventually updated in some sense or another.
 </div>
 
 > :warning: _how do I remove that symbol between badges?..._
- 
----
 
 <div align="center">
 
