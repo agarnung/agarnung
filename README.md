@@ -48,7 +48,7 @@ Be careful, this .md will be deleted if any of the following happens:
 
 <div align="center">
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agarnung&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agarnung&theme=dark&background=000000)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarnung&show_icons=true&theme=dracula&include_all_commits=true&count_private=false)
 
