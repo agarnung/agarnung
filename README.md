@@ -4,13 +4,6 @@ and it will be eventually updated in some sense or another.
 
 ---
 
-Be careful, this .md will be deleted if any of the following happens:
-1. Indirect actions
-  * The repository is made private.
-  * The repository name no longer matches your username due to a change in either or both names.
-2. Direct actions
-  - The README file is made empty
-
 `createFooTumbleweed();`
 
 <div id="header" align="center">
