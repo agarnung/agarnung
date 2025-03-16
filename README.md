@@ -46,10 +46,13 @@ Be careful, this .md will be deleted if any of the following happens:
  
 ---
 
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agarnung&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agarnung)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarnung&show_icons=true&theme=dracula&include_all_commits=true&count_private=false)
 
-<div>
-  <a href="https://github.com/juliasvilar">
-  <p><img height="140em" src="https://github-readme-stats.vercel.app/api?username=agarnung&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarnung&layout=compact&langs_count=16&theme=dracula"/><p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agarnung&layout=compact&langs_count=16&theme=dracula)
+
+</div>
+
